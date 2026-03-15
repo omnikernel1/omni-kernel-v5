@@ -34,7 +34,7 @@ It utilizes a **Greedy Algorithm** for budget efficiency and a **Cryptographic A
 - **Algorithm:** Multi-Deal Greedy Optimization.
 - **Output:** Mathematically perfect portfolio allocation ($ Budget vs. $ Revenue).
 
-## 3. Strategic Capabilities (The $100M Features)
+## 3. Strategic Capabilities (The $300M Features)
 > **Proprietary IP Assets Hard-Coded in Kernel**
 
 1.  **Ruthless Capital Allocation Engine:** Replaces the VP of Sales. Explicitly outputs `KILL`, `DEFER`, or `ESCALATE` based on ROI Density.
