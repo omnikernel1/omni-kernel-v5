@@ -7,6 +7,19 @@
 ![Security](https://img.shields.io/badge/SECURITY-ENTERPRISE_GRADE-blue)
 ![Kernel](https://img.shields.io/badge/KERNEL-GEMINI_PRO-purple)
 
+
+
+## 📺 SYSTEM DEMONSTRATION
+> **KERNEL v5.0 LIVE EXECUTION // ARCHITECTURAL WALKTHROUGH**
+
+[![Omni-Kernel v5.0 Demo]](https://drive.google.com/file/d/1KPFpNtUBlgBEie3lrPkbEwozfJx6e_ln/view?usp=sharing)
+
+*Note: This is a secure high-fidelity demonstration of the 'Kill Score' logic and the Efficient Frontier plotting. Verified for March 17 Launch.*
+
+
+
+
+
 ## 1. Executive Summary
 **Revenue OS** is a deterministic framework for autonomous sales execution. Unlike traditional CRMs (Systems of Record), Revenue OS is a **System of Intelligence** that mathematically optimizes capital allocation across the sales pipeline.
 
