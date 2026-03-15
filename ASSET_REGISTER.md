@@ -1,7 +1,11 @@
 # 🏛️ THE $300M+ PROPRIETARY ASSET REGISTER (A-Z)
-> **STATUS:** AUDIT-READY // **VERSION:** 5.0 // **CLASSIFICATION:** LEVEL 4 PROPRIETARY
-> *Verified Logic mapped to Omni-Kernel Core (App.tsx / geminiService.ts / types.ts)*
 
+![Status](https://img.shields.io/badge/STATUS-AUDIT--READY-success?style=for-the-badge&logo=github)
+![Classification](https://img.shields.io/badge/CLASSIFICATION-LEVEL_4_PROPRIETARY-blue?style=for-the-badge)
+![Target](https://img.shields.io/badge/TARGET-%24300M_EXIT-gold?style=for-the-badge)
+
+> **VERSION:** 5.0 // **STAGING:** ACTIVE
+> *Verified Logic mapped to Omni-Kernel Core (App.tsx / geminiService.ts / types.ts)*
 
 ---
 
