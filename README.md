@@ -12,7 +12,7 @@
 ## 📺 SYSTEM DEMONSTRATION
 > **KERNEL v5.0 LIVE EXECUTION // ARCHITECTURAL WALKTHROUGH**
 
-[![Omni-Kernel v5.0 Demo](https://drive.google.com/file/d/1UHZoFf5AeBQpf2PZ5UtsSkaC99vzCOGe/view?usp=sharing)
+[![Omni-Kernel v5.0 Demo]https://drive.google.com/file/d/1UHZoFf5AeBQpf2PZ5UtsSkaC99vzCOGe/view?usp=sharing
 
 *Note: This is a secure high-fidelity demonstration of the 'Kill Score' logic and the Efficient Frontier plotting. Verified for March 17 Launch.*
 
