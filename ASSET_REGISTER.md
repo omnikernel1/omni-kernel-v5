@@ -1,8 +1,6 @@
-THE $300M+ ASSET REGISTER (A-Z)
-
-Inventory of Hard-Coded Logic Blocks & Proprietary Intellectual Property
-
-Status: AUDIT-READY // MAPPED TO v5.0 KERNEL
+# 🏛️ THE $300M+ PROPRIETARY ASSET REGISTER (A-Z)
+> **STATUS:** AUDIT-READY // **VERSION:** 5.0 // **CLASSIFICATION:** LEVEL 4 PROPRIETARY
+> *Verified Logic mapped to Omni-Kernel Core (App.tsx / geminiService.ts / types.ts)*
 
 
 ---
