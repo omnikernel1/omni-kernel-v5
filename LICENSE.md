@@ -1,6 +1,6 @@
 # PROPRIETARY LICENSE AGREEMENT: OMNI-KERNEL v5.0
 
-© 2026 [YOUR NAME/ENTITY]. ALL RIGHTS RESERVED.
+© 2026 OMNI-KERNEL SYSTEMS. ALL RIGHTS RESERVED.
 
 ### 1. OWNERSHIP
 This repository and all associated documentation—including but not limited to the 'Kill Score' logic, Efficient Frontier mathematical models, and architectural schemas—are the exclusive intellectual property of the Architect.
