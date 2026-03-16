@@ -50,11 +50,17 @@ It utilizes a **Greedy Algorithm** for budget efficiency and a **Cryptographic A
 > **Proprietary IP Assets Hard-Coded in Kernel**
 
 1.  **Ruthless Capital Allocation Engine:** Replaces the VP of Sales. Explicitly outputs `KILL`, `DEFER`, or `ESCALATE` based on ROI Density.
+
 2.  **Counterfactual Intelligence:** Calculates "Waste Avoided" in real-time ($ Saved by AI).
+
 3.  **Immutable Audit Trail:** Cryptographic hashing of every decision for legal/compliance defense.
+
 4.  **Efficient Frontier Optimization:** Uses "Hedge Fund Logic" to guarantee mathematically optimal pipeline value.
+
 5.  **X-AI Decision Graph:** "Glass Box" explainability that maps weighted factors (Political Risk, Budget Authority).
+
 6.  **Macro-Economic Wargaming:** Simulates external shocks (Market Volatility) to stress-test the pipeline.
+
 7.  **Resilience Protocols:** Self-healing architecture that prevents downtime via automatic model fallback.
 
 ## 4. Technical Stack
