@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/STATUS-STABLE-green)
 ![Security](https://img.shields.io/badge/SECURITY-ENTERPRISE_GRADE-blue)
 ![Kernel](https://img.shields.io/badge/KERNEL-GEMINI_PRO-purple)
+> 🔴 **[STATUS: STEALTH - PROPRIETARY SOURCE CODE AIR-GAPPED PENDING ACQUISITION OR NDA]**
 
 
 ## 📺 SYSTEM DEMONSTRATION
