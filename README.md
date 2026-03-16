@@ -74,18 +74,6 @@ It utilizes a **Greedy Algorithm** for budget efficiency and a **Cryptographic A
 - **Auditability:** Every state change generates a cryptographic hash for the audit log.
 - **Resilience:** Automatic fallback to "Flash" models during API throttling events.
 
-## 5. Deployment
-```bash
-# Install Dependencies
-npm install
+## 5. Deployment Architecture 
 
-# Configure Environment
-cp .env.example .env
-# Set GEMINI_API_KEY
-
-# Initialize Kernel
-npm run dev
-```
-
----
-*© 2026 OmniAgent Architecture. All Rights Reserved. Proprietary & Confidential.*
+"The V5 Kernel is designed to be deployed on secure, single-tenant cloud infrastructure. Deployment scripts and environment configurations are provided only during Technical Due Diligence."
