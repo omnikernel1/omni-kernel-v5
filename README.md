@@ -93,6 +93,7 @@ The following table represents the forensic results of a **10-Lead Stress Test**
 | **[SIG-02](./dossiers/SIG-02.md)** | Chasing Scope-Creep | **DEFER** | **TIME RECOVERY** | **Saved 400 Dev Hours** |
 | **[SIG-03](./dossiers/SIG-03.md)** | Stuck in "Consultant Loop" | **ESCALATE** | **DECISION SPEED** | **Unlocked $320k Revenue** |
 | **[SIG-04](./dossiers/SIG-04.md)** | Leaking Specs to "Titan" | **HARD KILL ($0)** | **ANTI-ESPIONAGE** | **Stopped $50M IP Theft** |
+| **[SIG-05](./dossiers/SIG-05.md)** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
 | **[SIG-06](./dossiers/SIG-06.md)** | Chasing "Ghost" Offshore | **HARD KILL ($0)** | **LEGAL SHIELD** | **Avoided Jurisdictional Lawsuit** |
 | **[SIG-07](./dossiers/SIG-07.md)** | Ignoring "Small" Founder | **ESCALATE** | **ALPHA CAPTURE** | **Captured $462k Pure Revenue** |
 | **[SIG-08](./dossiers/SIG-08.md)** | Ignoring "Civil War" | **ESCALATE** | **RISK AWARENESS** | **Identified $5M At-Risk Asset** |
