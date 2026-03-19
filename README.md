@@ -88,7 +88,7 @@ The following table represents the forensic results of a **10-Lead Stress Test**
 
 | Lead ID | The Human "Gut" Move | The OMNI "Kernel" Move | The Delta ($\Delta$) | Financial Impact (Estimated) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SIG-11](./dossiers/SIG-11.json)** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
+| **[SIG-11](./dossiers/SIG-11.md)** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
 | **[SIG-13](./dossiers/SIG-13.json)** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
 | **[SIG-02](./dossiers/SIG-02.json)** | Chasing Scope-Creep | **DEFER** | **TIME RECOVERY** | **Saved 400 Dev Hours** |
 | **[SIG-03](./dossiers/SIG-03.json)** | Stuck in "Consultant Loop" | **ESCALATE** | **DECISION SPEED** | **Unlocked $320k Revenue** |
