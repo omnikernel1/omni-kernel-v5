@@ -18,8 +18,6 @@
 
 
 
-
-
 ## 1. Executive Summary
 **Revenue OS** is a deterministic framework for autonomous sales execution. Unlike traditional CRMs (Systems of Record), Revenue OS is a **System of Intelligence** that mathematically optimizes capital allocation across the sales pipeline.
 
@@ -70,41 +68,43 @@ It utilizes a **Greedy Algorithm** for budget efficiency and a **Cryptographic A
 - **Visualization:** Recharts (Financial Modeling).
 - **Icons:** Lucide-React (High-Performance SVG).
 
-## 4. Security & Compliance
+## 5. Security & Compliance
 - **Data Sovereignty:** All processing occurs in ephemeral states; no PII is permanently stored in the kernel.
 - **Auditability:** Every state change generates a cryptographic hash for the audit log.
 - **Resilience:** Automatic fallback to "Flash" models during API throttling events.
 
-## 5. Deployment Architecture 
+## 6. Deployment Architecture 
 
 "The V5 Kernel is designed to be deployed on secure, single-tenant cloud infrastructure. Deployment scripts and environment configurations are provided only during Technical Due Diligence."
 
+# The Sovereign Delta (Δ)
+
 ## 📈 Algorithmic Capital Extraction vs. Human Chaos
 
-> **"The OMNI_KERNEL_V1 does not manage leads; it executes capital."**
+> **"The OMNI_KERNEL_V5.0 does not manage leads; it executes capital."**
 
 ### The Sovereign Ledger of Value Added ($\Delta$)
 The following table represents the forensic results of a **10-Lead Stress Test**, comparing traditional human sales intuition against the deterministic logic of the OMNI_KERNEL.
 
 | Lead ID | The Human "Gut" Move | The OMNI "Kernel" Move | The Delta ($\Delta$) | Financial Impact (Estimated) |
 | :--- | :--- | :--- | :--- | :--- |
-| **11** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
-| **13** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
-| **02** | Chasing Scope-Creep | **DEFER** | **TIME RECOVERY** | **Saved 400 Dev Hours** |
-| **03** | Stuck in "Consultant Loop" | **ESCALATE** | **DECISION SPEED** | **Unlocked $320k Revenue** |
-| **04** | Leaking Specs to "Titan" | **HARD KILL ($0)** | **ANTI-ESPIONAGE** | **Stopped $50M IP Theft** |
-| **06** | Chasing "Ghost" Offshore | **HARD KILL ($0)** | **LEGAL SHIELD** | **Avoided Jurisdictional Lawsuit** |
-| **07** | Ignoring "Small" Founder | **ESCALATE** | **ALPHA CAPTURE** | **Captured $462k Pure Revenue** |
-| **08** | Ignoring "Civil War" | **ESCALATE** | **RISK AWARENESS** | **Identified $5M At-Risk Asset** |
-| **09** | Wasting time on "Cheap" | **HARD KILL ($0)** | **NOISE CANCELLATION** | **Saved 100 Sales Hours** |
-| **10** | Giving up IP to Gov | **HARD KILL ($0)** | **MOAT DEFENSE** | **Kept the Proprietary Edge** |
+| **[SIG-11](./dossiers/SIG-11.json)** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
+| **[SIG-13](./dossiers/SIG-13.json)** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
+| **[SIG-02](./dossiers/SIG-02.json)** | Chasing Scope-Creep | **DEFER** | **TIME RECOVERY** | **Saved 400 Dev Hours** |
+| **[SIG-03](./dossiers/SIG-03.json)** | Stuck in "Consultant Loop" | **ESCALATE** | **DECISION SPEED** | **Unlocked $320k Revenue** |
+| **[SIG-04](./dossiers/SIG-04.json)** | Leaking Specs to "Titan" | **HARD KILL ($0)** | **ANTI-ESPIONAGE** | **Stopped $50M IP Theft** |
+| **[SIG-06](./dossiers/SIG-06.json)** | Chasing "Ghost" Offshore | **HARD KILL ($0)** | **LEGAL SHIELD** | **Avoided Jurisdictional Lawsuit** |
+| **[SIG-07](./dossiers/SIG-07.json)** | Ignoring "Small" Founder | **ESCALATE** | **ALPHA CAPTURE** | **Captured $462k Pure Revenue** |
+| **[SIG-08](./dossiers/SIG-08.json)** | Ignoring "Civil War" | **ESCALATE** | **RISK AWARENESS** | **Identified $5M At-Risk Asset** |
+| **[SIG-09](./dossiers/SIG-09.json)** | Wasting time on "Cheap" | **HARD KILL ($0)** | **NOISE CANCELLATION** | **Saved 100 Sales Hours** |
+| **[SIG-10](./dossiers/SIG-10.json)** | Giving up IP to Gov | **HARD KILL ($0)** | **MOAT DEFENSE** | **Kept the Proprietary Edge** |
 
 **TOTAL WASTE AVOIDED ($W$): $4,804,119**
 
 ---
 
 ### 🧠 Investor-Ready Delta Analysis
-For a Tier-1 acquirer, these results verify three critical investment pillars:
+For a Tier-1 acquirer, these results verify critical investment pillars:
 
 #### 1. The "Hidden Loss" Recovery
 * Standard human systems are incentivized to say "yes" to toxic, high-volume deals that compromise long-term value.
@@ -122,5 +122,9 @@ For a Tier-1 acquirer, these results verify three critical investment pillars:
 * The math detects the **Radioactive Lexicon** (phrases like "raw weights" or "reverse-engineer") and terminates the signal instantly.
 * **THE DELTA:** **Existential Risk Mitigation (Immeasurable)**.
 
+#### 🛡️ 4. The "Glass Box" Trust (Audit Integrity)
+OMNI_KERNEL v5.0 operates as a **Glass Box**, ensuring every decision is 100% traceable and mathematically defensible. Unlike "Black Box" models, our logic is rooted in:
+* **Boltzmann Entropy ($S = k \ln W$):** Used to quantify signal disorder and political volatility. High-entropy signals ($S > 70.0$) are automatically identified as "Radioactive" risk vectors.
+* **Kelly Criterion ($f^*$):** Determines the optimal capital fraction to allocate based on the system's "Edge". This prevents "Gambler's Ruin" and ensures maximum long-term growth by prioritizing signals with a mathematically verified win probability.
 ---
 *© 2026 OmniAgent Architecture. All Rights Reserved. Proprietary & Confidential.*
