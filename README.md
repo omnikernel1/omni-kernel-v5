@@ -88,8 +88,8 @@ The following table represents the forensic results of a **10-Lead Stress Test**
 
 | Lead ID | The Human "Gut" Move | The OMNI "Kernel" Move | The Delta ($\Delta$) | Financial Impact (Estimated) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SIG-11](./dossiers/SIG-1.md)** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
-| **[SIG-13](./dossiers/SIG-5.md)** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
+| **[SIG-01](./dossiers/SIG-01.md)** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
+| **[SIG-05](./dossiers/SIG-05.md)** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
 | **[SIG-02](./dossiers/SIG-02.md)** | Chasing Scope-Creep | **DEFER** | **TIME RECOVERY** | **Saved 400 Dev Hours** |
 | **[SIG-03](./dossiers/SIG-03.md)** | Stuck in "Consultant Loop" | **ESCALATE** | **DECISION SPEED** | **Unlocked $320k Revenue** |
 | **[SIG-04](./dossiers/SIG-04.md)** | Leaking Specs to "Titan" | **HARD KILL ($0)** | **ANTI-ESPIONAGE** | **Stopped $50M IP Theft** |
