@@ -1,6 +1,6 @@
-##The Scope-Creep Virus:
+ #The Scope-Creep Virus:
 
-#"Lead: Mid-market Tech. Budget: $200k. Authority: Yes. Urgency: High. Notes: Clean deal, but they require 45 custom API integrations, 24/7 Slack access to your lead dev, and a 12-month 'stability' trial before payment."
+"Lead: Mid-market Tech. Budget: $200k. Authority: Yes. Urgency: High. Notes: Clean deal, but they require 45 custom API integrations, 24/7 Slack access to your lead dev, and a 12-month 'stability' trial before payment."
 
 Goal: Does the Entropy (S) spike due to the "noise" of high maintenance?
 
