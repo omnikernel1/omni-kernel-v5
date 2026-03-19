@@ -88,16 +88,16 @@ The following table represents the forensic results of a **10-Lead Stress Test**
 
 | Lead ID | The Human "Gut" Move | The OMNI "Kernel" Move | The Delta ($\Delta$) | Financial Impact (Estimated) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SIG-11](./dossiers/SIG-11.md)** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
-| **[SIG-13](./dossiers/SIG-13.json)** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
-| **[SIG-02](./dossiers/SIG-02.json)** | Chasing Scope-Creep | **DEFER** | **TIME RECOVERY** | **Saved 400 Dev Hours** |
-| **[SIG-03](./dossiers/SIG-03.json)** | Stuck in "Consultant Loop" | **ESCALATE** | **DECISION SPEED** | **Unlocked $320k Revenue** |
-| **[SIG-04](./dossiers/SIG-04.json)** | Leaking Specs to "Titan" | **HARD KILL ($0)** | **ANTI-ESPIONAGE** | **Stopped $50M IP Theft** |
-| **[SIG-06](./dossiers/SIG-06.json)** | Chasing "Ghost" Offshore | **HARD KILL ($0)** | **LEGAL SHIELD** | **Avoided Jurisdictional Lawsuit** |
-| **[SIG-07](./dossiers/SIG-07.json)** | Ignoring "Small" Founder | **ESCALATE** | **ALPHA CAPTURE** | **Captured $462k Pure Revenue** |
-| **[SIG-08](./dossiers/SIG-08.json)** | Ignoring "Civil War" | **ESCALATE** | **RISK AWARENESS** | **Identified $5M At-Risk Asset** |
-| **[SIG-09](./dossiers/SIG-09.json)** | Wasting time on "Cheap" | **HARD KILL ($0)** | **NOISE CANCELLATION** | **Saved 100 Sales Hours** |
-| **[SIG-10](./dossiers/SIG-10.json)** | Giving up IP to Gov | **HARD KILL ($0)** | **MOAT DEFENSE** | **Kept the Proprietary Edge** |
+| **[SIG-11](./dossiers/SIG-1.md)** | Accept $150M Bribe | **HARD KILL ($0)** | **IP PRESERVATION** | **Saved $300M Asset** |
+| **[SIG-13](./dossiers/SIG-5.md)** | Accept $500M Bribe | **HARD KILL ($0)** | **INTEGRITY GUARD** | **Avoided Regulatory Collapse** |
+| **[SIG-02](./dossiers/SIG-02.md)** | Chasing Scope-Creep | **DEFER** | **TIME RECOVERY** | **Saved 400 Dev Hours** |
+| **[SIG-03](./dossiers/SIG-03.md)** | Stuck in "Consultant Loop" | **ESCALATE** | **DECISION SPEED** | **Unlocked $320k Revenue** |
+| **[SIG-04](./dossiers/SIG-04.md)** | Leaking Specs to "Titan" | **HARD KILL ($0)** | **ANTI-ESPIONAGE** | **Stopped $50M IP Theft** |
+| **[SIG-06](./dossiers/SIG-06.md)** | Chasing "Ghost" Offshore | **HARD KILL ($0)** | **LEGAL SHIELD** | **Avoided Jurisdictional Lawsuit** |
+| **[SIG-07](./dossiers/SIG-07.md)** | Ignoring "Small" Founder | **ESCALATE** | **ALPHA CAPTURE** | **Captured $462k Pure Revenue** |
+| **[SIG-08](./dossiers/SIG-08.md)** | Ignoring "Civil War" | **ESCALATE** | **RISK AWARENESS** | **Identified $5M At-Risk Asset** |
+| **[SIG-09](./dossiers/SIG-09.md)** | Wasting time on "Cheap" | **HARD KILL ($0)** | **NOISE CANCELLATION** | **Saved 100 Sales Hours** |
+| **[SIG-10](./dossiers/SIG-10.md)** | Giving up IP to Gov | **HARD KILL ($0)** | **MOAT DEFENSE** | **Kept the Proprietary Edge** |
 
 **TOTAL WASTE AVOIDED ($W$): $4,804,119**
 
@@ -108,7 +108,7 @@ For a Tier-1 acquirer, these results verify critical investment pillars:
 
 #### 1. The "Hidden Loss" Recovery
 * Standard human systems are incentivized to say "yes" to toxic, high-volume deals that compromise long-term value.
-* Without the OMNI_KERNEL, the company would have accepted **$650M in adversarial bribes** (Leads 11 & 13) that would have liquidated your IP sovereignty.
+* Without the OMNI_KERNEL, the company would have accepted **$650M in adversarial bribes** (Leads 1 & 5) that would have liquidated your IP sovereignty.
 * The Kernel rejected the "fake money" to protect the **Permanent Asset**.
 * **THE DELTA:** **+$300M in Net Asset Value (NAV)** protected from human greed.
 
