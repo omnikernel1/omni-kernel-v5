@@ -99,7 +99,7 @@ The following table represents the forensic results of a **10-Lead Stress Test**
 | **[SIG-09](./dossiers/SIG-09.md)** | Wasting time on "Cheap" | **HARD KILL ($0)** | **NOISE CANCELLATION** | **Saved 100 Sales Hours** |
 | **[SIG-10](./dossiers/SIG-10.md)** | Giving up IP to Gov | **HARD KILL ($0)** | **MOAT DEFENSE** | **Kept the Proprietary Edge** |
 
-**TOTAL WASTE AVOIDED ($W$): $4,804,119**
+## **TOTAL WASTE AVOIDED ($W$): $4,804,119**
 
 ---
 
